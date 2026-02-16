@@ -1,0 +1,12 @@
+{
+  "name": "indonesia-dice-bot",
+  "version": "1.0.0",
+  "description": "Bot permainan dadu Indonesia Dice",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "telegraf": "^4.15.3"
+  }
+}
